@@ -1,13 +1,12 @@
-# CS-250 
-    
-    
-       How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+# CS-250
+
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 -	Interpreting user needs are the ability to identify what the user wants to achieve when using the product/software and then redefining those needs in terms of technical requirements. In Scrum-agile, we define user needs as "user stories", which is the process of breaking an entire program into smaller functional pieces. These smaller pieces allow the program to be developed in iterations, or "Sprints", which helps reduce the overall complexity of the product, speeds development, and  delivers working software to the customer for review as development is ongoing. 
     
     
-       How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+# How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 -	I have traditionally approached developing programs by simply "starting to code" without much pre-planning. Typically, I will start to program as if I am writing a very basic outline of a paper, by getting the base functionality working first and going into specifics from there. After learning about agile, I have a different outlook on developing programs and how I will incorporate these processes into my future project development. One of the main agile processes that stuck out to me,  even in the context of a school-project or personal project I am developing on my own, is creating "user stories", applying "story points" to those user stories, and working on those user stories in "Sprints". All of these methods are derived from Scrum-agile and even though they are used primarily in teams, they can be implemented on stand-alone projects that one person is developing. I have historically attempted to tackle the development of a project as one single entity rather than individual parts making up a whole, which makes the project feel more complicated than it actually is. I have also attempted to program the project all at once and underestimate the amount of work a project will take. This has primarily caused more harm than good since I am not allowing myself to take a break and stress over the progress I am making. Adopting the agile processes will help reduce all of these counterproductive habits I have created while developing a program. 
     
  
-       What does it mean to be a good team member in software development?
+# What does it mean to be a good team member in software development?
 -	To be a good team member in software development requires a person to have a high level of integrity because many times a developer will have access to secure information or the responsibility of developing powerful software without someone always looking over their back. A good team member in software development needs to exhibit pride in their work and take ownership of the product while remaining humble. A good team member in software development needs to accept that they can always learn from the team, that there is room to teach others, and understand that learning is a continuous process both individually and collectively. A good team member in software development must embrace that software development is made possible as a team, that the team requires respect for each other, and that we can always achieve more together than we can alone. 
