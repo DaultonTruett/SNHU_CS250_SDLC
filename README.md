@@ -1,4 +1,4 @@
-# CS-250
+# SNHU CS-250: Software Development Lifecycle
 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 -	Interpreting user needs are the ability to identify what the user wants to achieve when using the product/software and then redefining those needs in terms of technical requirements. In Scrum-agile, we define user needs as "user stories", which is the process of breaking an entire program into smaller functional pieces. These smaller pieces allow the program to be developed in iterations, or "Sprints", which helps reduce the overall complexity of the product, speeds development, and  delivers working software to the customer for review as development is ongoing. 
